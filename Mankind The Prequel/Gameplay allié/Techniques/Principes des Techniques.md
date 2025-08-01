@@ -1,0 +1,1 @@
+Une technique est un "sort" avec un principe physique, et non magique, par exemple, une "taillade" est une technique physique car elle s'appuie sur la statistique d'[[Dégats physique]]

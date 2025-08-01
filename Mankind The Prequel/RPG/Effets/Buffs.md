@@ -1,0 +1,2 @@
+Les **Buffs** représentent l’ensemble des **améliorations temporaires**, qu’elles soient **physiques**, **magiques**, **mentales** ou **techniques**, appliquées au personnage.  
+Ils **augmentent temporairement** une ou plusieurs **statistiques principales ou secondaires**, ou offrent un **effet bénéfique contextuel**.

@@ -1,0 +1,1 @@
+La statistique de dégats critique est une augmentation des dégats en cas de coup critique

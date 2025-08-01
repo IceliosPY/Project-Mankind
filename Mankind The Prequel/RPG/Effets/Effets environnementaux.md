@@ -1,0 +1,2 @@
+Les **Effets Environnementaux** désignent l’ensemble des **interactions passives ou actives entre un personnage et son environnement immédiat**, qu’il soit **naturel**, **magique**, **technologique** ou **altéré**.  
+Ils peuvent être **hostiles, instables, neutres ou bénéfiques**, et influencent directement le **positionnement, les décisions et la survie** du personnage.

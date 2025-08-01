@@ -1,0 +1,1 @@
+Une attaque dite "imparable" signifie qu'elle ne peut pas étre parée, même avec une parade parfaite, elle reste en revanche bloquable ou esquivable 

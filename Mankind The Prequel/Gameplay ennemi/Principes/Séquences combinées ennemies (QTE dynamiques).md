@@ -1,0 +1,2 @@
+Sous certaines **conditions spécifiques**, certains **ennemis agissent de manière coordonnée**, combinant leurs attaques pour créer des **séquences uniques** que le joueur doit **contrer activement via un QTE** (Quick Time Event).  
+Chaque séquence est **différente à chaque déclenchement**, introduisant une tension imprévisible et un besoin d’adaptation rapide.

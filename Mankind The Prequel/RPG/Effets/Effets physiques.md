@@ -1,0 +1,2 @@
+Les **Effets Physiques** regroupent l’ensemble des **altérations corporelles négatives** résultant de **blessures, chocs, pressions mécaniques, impacts violents ou techniques spécifiques**.  
+Ils peuvent être **temporaires ou persistants**, et affectent les **capacités motrices, sensorielles ou posturales** du personnage.

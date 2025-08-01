@@ -1,0 +1,1 @@
+Ce sort ne souffre pas des status affectant la précision

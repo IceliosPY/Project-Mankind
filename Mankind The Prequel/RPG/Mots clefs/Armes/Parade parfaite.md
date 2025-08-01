@@ -1,0 +1,1 @@
+Parade parfait empêche tout dégâts physiques, en REVANCHE, elle n'empéche pas les statuts

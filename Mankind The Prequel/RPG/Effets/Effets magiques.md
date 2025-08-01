@@ -1,0 +1,2 @@
+Les **Effets Magiques** désignent l’ensemble des **influences arcaniques** agissant sur un personnage ou son environnement, qu’elles soient **bénéfiques, neutres ou hostiles**.  
+Ils incluent les **rémanences de sort**, les **champs de magie persistants**, ou les **répercussions imprévues** d’une source magique active.

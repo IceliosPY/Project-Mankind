@@ -1,0 +1,2 @@
+Les **Debuffs** désignent l’ensemble des **altérations temporaires négatives** qui affectent un personnage.  
+Ils peuvent **réduire ses statistiques principales ou secondaires**, **altérer ses capacités**, ou **imposer des effets handicapants** physiques, mentaux ou magiques.

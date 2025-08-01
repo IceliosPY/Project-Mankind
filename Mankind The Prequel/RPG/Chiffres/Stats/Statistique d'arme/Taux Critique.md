@@ -1,0 +1,1 @@
+La taux critique est le % de chance d'obtenir un coup critique sur un même coups
