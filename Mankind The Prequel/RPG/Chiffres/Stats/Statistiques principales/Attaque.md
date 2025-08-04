@@ -9,7 +9,7 @@
 
 L’Attaque dépend de plusieurs éléments :
 
-- Votre **force brute**,
+- defini votre **force brute**,
     
 - L’**arme** que vous maniez (épée, hache, lance, etc.),
     
@@ -24,7 +24,7 @@ L’Attaque dépend de plusieurs éléments :
 
 > Tous les **5 points investis en Attaque** :
 > 
-> - **+1 point en Constitution** (le corps se renforce sous l’effort),
+> - **+2 point en Constitution** (le corps se renforce sous l’effort),
 >     
 > - **−1 point en Esprit** (désensibilisation ou éloignement du spirituel).
 >     

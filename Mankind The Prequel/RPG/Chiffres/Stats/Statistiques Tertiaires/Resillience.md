@@ -8,7 +8,3 @@
 - **Réduction de durée** ou d’intensité des **malus et débuffs** (empoisonnement, brûlure, affaiblissement, silence, ralentissement...)
     
 - **Diminution de la sévérité des coups critiques subis** (dégâts ou effets secondaires)
-    
-- **Récupération accélérée** des effets négatifs en combat ou hors combat
-    
-- **Résistance accrue** aux enchaînements d’altérations (ne pas être débuffé en boucle)

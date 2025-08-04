@@ -21,9 +21,9 @@ Contrairement à l’[[Intelligence]], l’Esprit **ne mesure pas votre connaiss
 
 > Tous les **5 points investis en Esprit** :
 > 
-> - **+1 point d’Intelligence** (intuition nourrissant la compréhension),
+> - **+2 point d’Intelligence** (intuition nourrissant la compréhension),
 >     
-> - **−1 point en Défense** (moins d’attention portée à la protection physique).
+> - **−1 point en Agilité (moins d’attention portée à la protection physique).
 >     
 
 > Un esprit tourné vers l’invisible développe naturellement des facultés mentales et magiques accrues, mais au détriment d’une vigilance physique immédiate.

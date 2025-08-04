@@ -12,7 +12,7 @@
 
 > Tous les **5 points investis en Agilité** :
 > 
-> - **+1 point en Attaque** (frappes plus rapides et précises),
+> - **+2 point en Attaque** (frappes plus rapides et précises),
 >     
 > - **−1 point en Défense** (réduction de la stabilité ou de la protection).
 >     

@@ -1,0 +1,1 @@
+Clovi-1 fait parti des premières stations orbitales autonomes a avoir étées mises en orbite, elle appartient a [[Redacted]], un des plus grand constructeur paramillitaire de la terre

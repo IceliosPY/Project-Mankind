@@ -1,11 +1,11 @@
 > **L’Initiative Physique** est déterminée par votre [[Agilité]].  
-> Elle reflète votre **réactivité corporelle**, votre **vitesse d’action en combat**, ainsi que votre **capacité à engager ou esquiver rapidement**.
+> Elle reflète votre **réactivité corporelle**, votre **vitesse d’action en combat**, ainsi que votre **capacité à engager ou esquiver un combat rapidement**.
 
 Une Initiative Physique élevée vous permet de :
 
 - **attaquer en premier lors d’un affrontement** physique ou mêlée,
     
-- **esquiver ou intercepter** avec efficacité,
+- **esquiver ou intercepter** un combat avec efficacité,
     
 - **déclencher des capacités spéciales** avant vos adversaires,
     

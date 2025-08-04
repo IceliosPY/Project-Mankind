@@ -22,4 +22,4 @@
 
 - **Constitution** → robustesse et vitalité de base,
     
-- **Attaque** → dépense physique contrôlée et dynamique,
+- **Defense** 

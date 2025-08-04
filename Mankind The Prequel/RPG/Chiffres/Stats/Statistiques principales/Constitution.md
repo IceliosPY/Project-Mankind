@@ -15,7 +15,7 @@
 
 > Tous les **5 points investis en Constitution** :
 > 
-> - **+1 point permanent en Défense** 
+> - **+2 point en Défense** 
 >     
 > - **−1 point en Agilité** 
 >     

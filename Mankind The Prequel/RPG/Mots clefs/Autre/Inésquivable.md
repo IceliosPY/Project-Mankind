@@ -1,0 +1,1 @@
+un sort, ou une attaque inésquivable est une attaque qui ne peux pas étre évitée, elle peut en revanche, sauf si mention contraire, étre parée ou bloquée

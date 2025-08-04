@@ -10,7 +10,7 @@ Contrairement à l’[[Esprit]], l’Intelligence détermine votre **compréhens
 
 > Tous les **5 points investis en Intelligence** :
 > 
-> - **+1 point de Défense** (anticipation, stratégie),
+> - **+2 point de Défense** (anticipation, stratégie),
 >     
 > - **−1 point d’Attaque** (moindre agressivité physique).
 >     

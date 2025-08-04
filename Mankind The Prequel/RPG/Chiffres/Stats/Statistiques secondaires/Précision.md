@@ -1,5 +1,5 @@
 > La **Précision** mesure votre capacité à **viser juste**, à **exécuter des gestes techniques sans erreur**, et à **toucher les points vitaux ou les failles** de votre cible.  
-> Elle reflète la finesse de vos actions, qu’elles soient physiques, magiques ou mécaniques.
+> Elle reflète la finesse de vos actions, qu’elles soient physiques, ou mécaniques.
 
 ---
 

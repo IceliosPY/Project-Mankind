@@ -38,6 +38,6 @@
     
 - **[[Effets Environnementaux]]** → enrichissent l’expérience en rendant le terrain vivant.
     
-- [[Furtivité]]  → devien crucial dans un environnement ouvert et instable.
+- [[Furtivité]]  → deviens crucial dans un environnement ouvert et instable.
     
 - [[Endurance]] → influencent la capacité à naviguer dans des zones hostiles sans repos.

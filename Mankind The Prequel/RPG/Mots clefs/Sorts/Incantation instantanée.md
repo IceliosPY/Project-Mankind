@@ -1,1 +1,1 @@
-Le sort est instantané, il ne nécessite pas de concentration et ne bénéficie donc pas du bonus d'esprit, en revanche il peut se lancer même en etat de silence
+Le sort est instantané, il ne nécessite pas de concentration et ne bénéficie donc pas du bonus d'intéligence, en revanche il peut se lancer même en état de silence
